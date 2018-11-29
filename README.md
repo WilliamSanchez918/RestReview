@@ -5,7 +5,7 @@ Restaurant Reviews App
 
 [Origin](#Origin)
 [RunMEEE](#RunMe)
-[Origin](#API)
+[API](#API)
 [RunMEEE](#ES6)
 [CodeDependencies/Credit](#Credit)
 
@@ -33,6 +33,6 @@ Google Map API is utilized for location services for restaurants lat/long data
 Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future-proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write.
 
 
-## Code Dependencies
+## Credit
 [project Restaurant Reviews (Stage 1) - Starter Code](https://github.com/udacity/mws-restaurant-stage-1)
 [Normalize.css](https://necolas.github.io/normalize.css/)
