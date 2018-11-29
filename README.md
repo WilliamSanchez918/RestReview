@@ -5,9 +5,9 @@ Restaurant Reviews App
 
 [Origin](#Origin)
 [RunMEEE](#RunMe)
-[API's] (#API)
-[ES6] (#ES6)
-[CodeDependencies/Credit] (#Credit)
+[Origin](#API)
+[RunMEEE](#ES6)
+[CodeDependencies/Credit](#Credit)
 
 
 ## Origin
